@@ -1,0 +1,21 @@
+body {
+    background-color: #FFF1E6;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 600px
+}
+
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    font-size: 80px;
+    justify-content: center;
+    text-align: center;
+}
